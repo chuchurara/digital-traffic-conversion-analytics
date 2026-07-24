@@ -1,0 +1,16 @@
+date,source_medium,campaign,ad_spend,impressions,clicks
+2026-07-01,google / cpc,AU_Brand_Search,150,3200,450
+2026-07-01,facebook / paid_social,AU_Prospecting_Meta,250,12500,310
+2026-07-01,tiktok / paid_social,AU_GenZ_Video,100,8000,200
+2026-07-02,google / cpc,AU_Brand_Search,160,3400,480
+2026-07-02,facebook / paid_social,AU_Prospecting_Meta,270,13100,330
+2026-07-02,tiktok / paid_social,AU_GenZ_Video,110,8500,210
+2026-07-03,google / cpc,AU_Brand_Search,155,3300,460
+2026-07-03,facebook / paid_social,AU_Prospecting_Meta,290,14000,350
+2026-07-03,tiktok / paid_social,AU_GenZ_Video,105,8200,205
+2026-07-04,google / cpc,AU_Brand_Search,140,3100,430
+2026-07-04,facebook / paid_social,AU_Prospecting_Meta,310,15200,380
+2026-07-04,tiktok / paid_social,AU_GenZ_Video,120,9000,225
+2026-07-05,google / cpc,AU_Brand_Search,165,3500,490
+2026-07-05,facebook / paid_social,AU_Prospecting_Meta,300,14800,370
+2026-07-05,tiktok / paid_social,AU_GenZ_Video,115,8800,218
