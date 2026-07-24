@@ -1,6 +1,6 @@
 # Digital Traffic & Conversion Analytics (GA4 + Paid Media Integration)
 
-![Looker Studio](https://datastudio.google.com/reporting/375add39-8d85-42ca-b193-64dcfea83678)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Analytics 4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
