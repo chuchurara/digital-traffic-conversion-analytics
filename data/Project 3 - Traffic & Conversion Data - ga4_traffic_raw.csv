@@ -1,0 +1,26 @@
+date,source_medium,campaign,sessions,engaged_sessions,key_events,purchase_revenue
+2026-07-01,google / cpc,AU_Brand_Search,420,380,32,3200
+2026-07-01,facebook / paid_social,AU_Prospecting_Meta,290,190,12,960
+2026-07-01,tiktok / paid_social,AU_GenZ_Video,180,90,2,140
+2026-07-01,organic / none,(not set),850,620,25,2100
+2026-07-01,klaviyo / email,July_Promo_EDM,310,260,28,2800
+2026-07-02,google / cpc,AU_Brand_Search,450,410,35,3500
+2026-07-02,facebook / paid_social,AU_Prospecting_Meta,310,200,11,880
+2026-07-02,tiktok / paid_social,AU_GenZ_Video,190,95,3,210
+2026-07-02,organic / none,(not set),890,640,27,2250
+2026-07-02,klaviyo / email,July_Promo_EDM,290,240,24,2400
+2026-07-03,google / cpc,AU_Brand_Search,430,390,33,3300
+2026-07-03,facebook / paid_social,AU_Prospecting_Meta,330,210,13,1040
+2026-07-03,tiktok / paid_social,AU_GenZ_Video,185,92,2,150
+2026-07-03,organic / none,(not set),870,630,26,2180
+2026-07-03,klaviyo / email,July_Promo_EDM,300,250,26,2600
+2026-07-04,google / cpc,AU_Brand_Search,400,360,30,3000
+2026-07-04,facebook / paid_social,AU_Prospecting_Meta,360,230,10,800
+2026-07-04,tiktok / paid_social,AU_GenZ_Video,200,100,1,75
+2026-07-04,organic / none,(not set),810,590,22,1850
+2026-07-04,klaviyo / email,July_Promo_EDM,250,210,20,2000
+2026-07-05,google / cpc,AU_Brand_Search,460,420,36,3600
+2026-07-05,facebook / paid_social,AU_Prospecting_Meta,350,220,12,960
+2026-07-05,tiktok / paid_social,AU_GenZ_Video,195,98,2,160
+2026-07-05,organic / none,(not set),900,660,29,2400
+2026-07-05,klaviyo / email,July_Promo_EDM,280,230,22,2200
